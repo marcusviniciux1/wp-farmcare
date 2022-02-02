@@ -1,0 +1,21 @@
+2021-11-19T18:52:06+00:00 CRITICAL Uncaught Exception: Row ID: 0, You do not have permission to delete this post. in C:\xampp\htdocs\farmcare\wp-content\plugins\bulk-edit-posts-on-frontend\modules\wp-sheet-editor\inc\providers\post.php:522
+Stack trace:
+#0 C:\xampp\htdocs\farmcare\wp-content\plugins\bulk-edit-posts-on-frontend\modules\wp-sheet-editor\inc\ajax.php(33): VGSE_Provider_Post->update_item_data(Array)
+#1 C:\xampp\htdocs\farmcare\wp-includes\class-wp-hook.php(303): WP_Sheet_Editor_Ajax->delete_row_ids('')
+#2 C:\xampp\htdocs\farmcare\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\farmcare\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\farmcare\wp-admin\admin-ajax.php(187): do_action('wp_ajax_vgse_de...')
+#5 {main}
+  thrown, em C:\xampp\htdocs\farmcare\wp-content\plugins\bulk-edit-posts-on-frontend\modules\wp-sheet-editor\inc\providers\post.php, na linha 522
+
+2021-11-19T18:56:27+00:00 CRITICAL Uncaught Error: Call to a member function is_editable_by_current_user() on bool in C:\xampp\htdocs\farmcare\wp-content\plugins\elementor\includes\managers\widgets.php:305
+Stack trace:
+#0 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 C:\xampp\htdocs\farmcare\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 C:\xampp\htdocs\farmcare\wp-includes\class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 C:\xampp\htdocs\farmcare\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\farmcare\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\farmcare\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#6 {main}
+  thrown, em C:\xampp\htdocs\farmcare\wp-content\plugins\elementor\includes\managers\widgets.php, na linha 305
+

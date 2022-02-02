@@ -1,0 +1,1640 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP User\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 15:23+0000\n"
+"PO-Revision-Date: 2022-01-31 22:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.9\n"
+"X-Domain: wpuser"
+
+#: admin/class-admin-settings.php:33
+msgid "WP Users"
+msgstr ""
+
+#: admin/class-admin-settings.php:34 admin/view/view-user-list.php:13
+#: admin/view/view-user-list.php:29
+msgid "Users"
+msgstr ""
+
+#: admin/class-admin-settings.php:36 admin/view/view-addon.php:105
+#: admin/view/view-addon.php:109
+msgid "Add-ons"
+msgstr ""
+
+#: admin/metabox.php:34
+msgid "Restrict this content"
+msgstr ""
+
+#: admin/metabox.php:39 admin/view/view-user-list.php:431
+msgid "Role"
+msgstr ""
+
+#: admin/metabox.php:42
+msgid "Choose the user role that can see this page / post"
+msgstr ""
+
+#: includes/appearance_filter-action.php:73
+msgid "Link Color"
+msgstr ""
+
+#: includes/appearance_filter-action.php:82
+msgid "Box Border Top Color"
+msgstr ""
+
+#: includes/appearance_filter-action.php:94
+msgid "Skins"
+msgstr ""
+
+#: includes/appearance_filter-action.php:124
+msgid "Buttons"
+msgstr ""
+
+#: includes/appearance_filter-action.php:136
+msgid "Type"
+msgstr ""
+
+#: includes/appearance_filter-action.php:141
+msgid "Noramal"
+msgstr ""
+
+#: includes/appearance_filter-action.php:146
+msgid "Flat"
+msgstr ""
+
+#: includes/appearance_filter-action.php:150
+msgid "Long"
+msgstr ""
+
+#: includes/appearance_filter-action.php:155
+#: includes/appearance_filter-action.php:200
+msgid "Background Color"
+msgstr ""
+
+#: includes/appearance_filter-action.php:164
+#: includes/appearance_filter-action.php:191
+msgid "Text Color"
+msgstr ""
+
+#: includes/appearance_filter-action.php:179
+msgid "Form Header"
+msgstr ""
+
+#: includes/appearance_filter-action.php:210
+msgid "Background Image"
+msgstr ""
+
+#: includes/appearance_filter-action.php:220
+msgid "Upload Image"
+msgstr "Carregar imagem"
+
+#: includes/class-group-action.php:38 includes/class-group-action.php:46
+#: includes/class-group-action.php:122 includes/class-group-action.php:130
+#: includes/class-group-action.php:181 includes/class-group-action.php:189
+#: includes/class-group-action.php:255 includes/class-group-action.php:263
+#: includes/class-tab-action.php:30 includes/class-tab-action.php:38
+#: includes/class-tab-action.php:99 includes/class-tab-action.php:107
+#: includes/class-tab-action.php:173 includes/class-tab-action.php:181
+#: includes/class-tab-action.php:256 includes/class-tab-action.php:264
+#: includes/class-tab-action.php:368 includes/class-tab-action.php:376
+msgid ""
+"Invalid form data. form request came from the somewhere else not current "
+"site! Please Refresh Page."
+msgstr ""
+
+#: includes/class-group-action.php:53
+msgid "Disable create new group"
+msgstr ""
+
+#: includes/class-group-action.php:70
+msgid "Please enter group title"
+msgstr ""
+
+#: includes/class-group-action.php:89
+msgid "Group created successfully"
+msgstr ""
+
+#: includes/class-group-action.php:106 includes/class-group-action.php:165
+#: includes/class-group-action.php:240 includes/class-group-action.php:348
+#: includes/class-tab-action.php:232 includes/class-tab-action.php:345
+#: includes/class-tab-action.php:405
+msgid "Please Refresh Page"
+msgstr ""
+
+#: includes/class-group-action.php:137
+msgid "Invalid form data."
+msgstr ""
+
+#: includes/class-group-action.php:146
+msgid "Group Updated successfully"
+msgstr ""
+
+#: includes/class-group-action.php:196 includes/class-tab-action.php:188
+msgid "Type field is required"
+msgstr ""
+
+#: includes/class-group-action.php:272 includes/class-tab-action.php:271
+#: includes/class-tab-action.php:383
+msgid "Invalid action"
+msgstr ""
+
+#: includes/class-group-action.php:294
+msgid "Group has been deleted successfully"
+msgstr ""
+
+#: includes/class-group-action.php:304
+msgid "Update your group"
+msgstr ""
+
+#: includes/class-group-action.php:321
+msgid "You have joined group successfully"
+msgstr ""
+
+#: includes/class-group-action.php:334
+msgid "You have leaved group successfully"
+msgstr ""
+
+#: includes/class-group-action.php:342
+msgid "Invalid Access"
+msgstr ""
+
+#: includes/class-group-action.php:487
+msgid "Invalid request"
+msgstr ""
+
+#: includes/class-group-action.php:685
+msgid "Area"
+msgstr ""
+
+#: includes/class-group-action.php:688
+msgid "Category"
+msgstr ""
+
+#: includes/class-group-action.php:691
+msgid "Tags"
+msgstr ""
+
+#: includes/class-group-action.php:808
+msgid " group successfully"
+msgstr ""
+
+#: includes/class-group-action.php:811
+msgid "Error in update group. Please Refresh Page"
+msgstr ""
+
+#: includes/class-tab-action.php:45 includes/class-tab-action.php:121
+msgid "Tab title is required"
+msgstr ""
+
+#: includes/class-tab-action.php:76
+msgid "Tab added successfully"
+msgstr ""
+
+#: includes/class-tab-action.php:114
+msgid "Invalid Request"
+msgstr ""
+
+#: includes/class-tab-action.php:149
+msgid "Tab Updated successfully"
+msgstr ""
+
+#: includes/class-tab-action.php:278
+msgid "Invalid title"
+msgstr ""
+
+#: includes/class-tab-action.php:292
+msgid " tab has been deleted successfully"
+msgstr ""
+
+#: includes/class-tab-action.php:313
+msgid "has been duplicate successfully"
+msgstr ""
+
+#: includes/class-tab-action.php:327
+msgid "Update your tab"
+msgstr ""
+
+#: includes/class-tab-action.php:469
+msgid "Link"
+msgstr ""
+
+#: includes/class-tab-action.php:475 includes/class-tab-action.php:477
+msgid "Delete tab"
+msgstr ""
+
+#: includes/class-tab-action.php:480 includes/class-tab-action.php:481
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-tab-action.php:484 includes/class-tab-action.php:485
+msgid "Edit tab"
+msgstr ""
+
+#: includes/class-tab-action.php:489 includes/class-tab-action.php:490
+#: includes/class-tab-action.php:529 includes/class-tab-action.php:530
+msgid " tab"
+msgstr ""
+
+#: includes/class-tab-action.php:552
+msgid " successfully"
+msgstr ""
+
+#: includes/class-tab-my-profile.php:91
+msgid ""
+"Choose the user role that user can see this tab in my profile/edit profile. "
+"Leave blank for visible to all user role."
+msgstr ""
+
+#: includes/class-tab-my-profile.php:99
+msgid ""
+"Choose the user level that user can see this tab in my profile/edit profile. "
+"Leave blank for visible to all user level."
+msgstr ""
+
+#: includes/class-tab-my-profile.php:107
+msgid ""
+"Choose the user role that user can see this tab in other user profile view. "
+"Leave blank for visible to all user role."
+msgstr ""
+
+#: includes/class-tab-my-profile.php:115
+msgid ""
+"Choose the user level that user can see this tab in other user profile view. "
+"Leave blank for visible to all user level."
+msgstr ""
+
+#: includes/class-tab-my-profile.php:142
+msgid "Add Tab"
+msgstr ""
+
+#: includes/class-tab-my-profile.php:162 user/class-user-my-profile.php:515
+#: user/shortcode.php:916 user/view/popup-model.php:52
+#: user/view/view-profile.php:171
+#: user/view/layout/member-view-profile-top.php:102
+msgid "Close"
+msgstr ""
+
+#: includes/class-tab-my-profile.php:165 user/class-user-my-profile.php:224
+#: user/class-user-my-profile.php:518
+msgid "Save"
+msgstr ""
+
+#: includes/class-tab-my-profile.php:169 user/class-user-my-profile.php:522
+#: admin/view/view-setting.php:86 admin/view/view-setting.php:280
+#: admin/view/view-setting.php:334
+msgid "Update"
+msgstr ""
+
+#: includes/class-tab-my-profile.php:232 user/class-user-my-profile.php:629
+#: user/class-user-view-profile.php:204
+msgid "Are you sure want to delete?"
+msgstr ""
+
+#: user/class-user-my-profile.php:17 user/class-user-view-profile.php:20
+msgid "Basic Information"
+msgstr "Informações básicas"
+
+#: user/class-user-my-profile.php:20 user/class-user-view-profile.php:23
+#: user/view/option.php:99
+msgid "First Name"
+msgstr ""
+
+#: user/class-user-my-profile.php:26 user/class-user-view-profile.php:29
+#: user/view/option.php:110
+msgid "Last Name"
+msgstr ""
+
+#: user/class-user-my-profile.php:32 user/shortcode.php:888
+#: admin/view/view-user-list.php:428 admin/view/view-user-list.php:730
+#: user/view/option.php:39 user/view/option.php:72 user/view/option.php:121
+#: user/view/popup-model.php:23 user/view/view-profile.php:143
+#: user/view/widgetView.php:55 user/view/widgetView.php:95
+#: user/view/layout/member-view-profile-top.php:74
+msgid "Email"
+msgstr "E-mail"
+
+#: user/class-user-my-profile.php:39 user/class-user-view-profile.php:35
+#: user/view/option.php:132
+msgid "Website"
+msgstr "Site"
+
+#: user/class-user-my-profile.php:45 user/class-user-view-profile.php:41
+#: admin/view/view-user-list.php:733 user/view/option.php:163
+#: user/view/option.php:168
+msgid "Description"
+msgstr "Descrição"
+
+#: user/class-user-my-profile.php:78
+msgid "Advanced Information"
+msgstr ""
+
+#: user/class-user-my-profile.php:113 admin/view/view-user-list.php:421
+#: user/view/option.php:29 user/view/widgetView.php:87
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: user/class-user-my-profile.php:120
+msgid "Display name"
+msgstr "Nome de exibição"
+
+#: user/class-user-my-profile.php:153
+msgid "Reward Points"
+msgstr ""
+
+#: user/class-user-my-profile.php:342
+msgid ""
+"Select privacy. Public-Anyone can see the group, Closed - Only Admin "
+"Follower see the group, Private - Only Admin added see the group."
+msgstr ""
+
+#: user/class-user-my-profile.php:367
+msgid "Create Group"
+msgstr ""
+
+#: user/class-user-my-profile.php:466
+msgid "Group Icon"
+msgstr ""
+
+#: user/class-user-my-profile.php:470
+msgid "Set Icon"
+msgstr ""
+
+#: user/class-user-my-profile.php:501
+msgid "Mark this billing address as defualt"
+msgstr ""
+
+#: user/class-user-my-profile.php:508
+msgid "Mark this shipping address as defualt"
+msgstr ""
+
+#: user/class-user-my-profile.php:739 user/shortcode.php:920
+#: user/view/popup-model.php:56 user/view/view-profile.php:175
+#: user/view/layout/member-view-profile-top.php:106
+msgid "Send"
+msgstr ""
+
+#: user/class-user-rest-api.php:325
+msgid "Data Saved Successfull"
+msgstr ""
+
+#: user/class-user-rest-api.php:335
+msgid "Fail to add data"
+msgstr ""
+
+#: user/filter.php:120
+msgid "Access Denied for your IP."
+msgstr ""
+
+#: user/filter.php:138
+msgid ""
+"Access denied : Waiting for approval.\n"
+"                     Please Activate Your Account. Before you can login, you "
+"must active your account with the link sent to your email address"
+msgstr ""
+
+#: user/filter.php:140
+msgid "Access denied : Waiting for admin approval"
+msgstr ""
+
+#: user/filter.php:151
+msgid "Access denied for"
+msgstr ""
+
+#: user/filter.php:151
+msgid "minuts"
+msgstr ""
+
+#: user/filter.php:188
+msgid "Dashboard"
+msgstr "Painel"
+
+#: user/filter.php:198
+msgid "Orders"
+msgstr ""
+
+#: user/filter.php:286
+msgid "</span> notifications"
+msgstr ""
+
+#: user/filter.php:359 user/view/view-profile.php:191
+msgid "Profile"
+msgstr ""
+
+#: user/filter.php:364 user/shortcode.php:437 user/widget.php:64
+#: user/view/profile.php:138
+msgid "Logout"
+msgstr "Sair"
+
+#: user/filter.php:435 user/shortcode.php:1264
+msgid "You do not have permission to access this content"
+msgstr ""
+
+#: user/filter.php:438 user/shortcode.php:1267
+msgid ""
+"We’re sorry. You do not have permission to access this content. Please sign "
+"In to be granted access."
+msgstr ""
+
+#: user/filter.php:761
+msgid "Login with OTP"
+msgstr ""
+
+#: user/filter.php:771
+msgid "Login with Password"
+msgstr ""
+
+#: user/filter.php:788
+msgid "OTP"
+msgstr ""
+
+#: user/filter.php:793
+msgid "Enter OTP"
+msgstr ""
+
+#: user/filter.php:797
+msgid "Resend OTP"
+msgstr ""
+
+#: user/filter.php:863 admin/view/view-user-list.php:87
+msgid "Error"
+msgstr ""
+
+#: user/filter.php:867 admin/view/view-user-list.php:91
+#: admin/view/view-user-list.php:472
+msgid "Approved"
+msgstr ""
+
+#: user/filter.php:868 admin/view/option.php:131
+#: admin/view/view-user-list.php:92 admin/view/view-user-list.php:210
+msgid "Deny"
+msgstr ""
+
+#: user/filter.php:872 admin/view/view-user-list.php:96
+#: admin/view/view-user-list.php:468
+msgid "Denied"
+msgstr ""
+
+#: user/filter.php:873 admin/view/option.php:130
+#: admin/view/view-user-list.php:97 admin/view/view-user-list.php:208
+msgid "Approve"
+msgstr ""
+
+#: user/function.php:358 user/view/option.php:59 user/view/option.php:64
+#: user/view/option.php:153 user/view/option.php:158
+msgid "Confirm Password"
+msgstr "Confirme a senha"
+
+#: user/function.php:590
+msgid " field is required"
+msgstr ""
+
+#: user/function.php:610
+msgid " field should be number"
+msgstr ""
+
+#: user/function.php:625
+msgid " field invalid email format"
+msgstr ""
+
+#: user/function.php:647
+msgid " field invalid time format. Time format Should be HH:MM"
+msgstr ""
+
+#: user/function.php:658
+msgid " format Should be XXXXXXXXXX"
+msgstr ""
+
+#: user/shortcode.php:79
+msgid "No Data Found"
+msgstr ""
+
+#: user/shortcode.php:79
+msgid "Only Member Can View Data."
+msgstr ""
+
+#: user/shortcode.php:433
+msgid "My Profile"
+msgstr ""
+
+#: user/shortcode.php:445 user/view/login.php:44 user/view/register.php:5
+#: user/view/register.php:143 user/view/widgetView.php:42
+#: user/view/widgetView.php:151
+msgid "Sign Up"
+msgstr ""
+
+#: user/shortcode.php:447 user/view/forgot.php:35 user/view/login.php:5
+#: user/view/login.php:30 user/view/register.php:155
+#: user/view/widgetView.php:30 user/view/widgetView.php:71
+#: user/view/widgetView.php:158
+msgid "Sign In"
+msgstr ""
+
+#: user/shortcode.php:872 user/view/popup-model.php:7
+#: user/view/view-profile.php:127
+#: user/view/layout/member-view-profile-top.php:58
+msgid "Send Message to"
+msgstr ""
+
+#: user/shortcode.php:886 user/view/popup-model.php:21
+#: user/view/view-profile.php:141
+#: user/view/layout/member-view-profile-top.php:72
+msgid "From"
+msgstr ""
+
+#: user/shortcode.php:891 user/shortcode.php:893 admin/view/option.php:587
+#: admin/view/option.php:614 admin/view/option.php:644
+#: user/view/popup-model.php:26 user/view/popup-model.php:28
+#: user/view/view-profile.php:146 user/view/view-profile.php:148
+#: user/view/layout/member-view-profile-top.php:77
+#: user/view/layout/member-view-profile-top.php:79
+msgid "Subject"
+msgstr ""
+
+#: user/shortcode.php:896 user/shortcode.php:898 user/view/popup-model.php:31
+#: user/view/popup-model.php:33 user/view/view-profile.php:151
+#: user/view/view-profile.php:153
+#: user/view/layout/member-view-profile-top.php:82
+#: user/view/layout/member-view-profile-top.php:84
+msgid "Message"
+msgstr ""
+
+#: user/shortcode.php:932
+msgid "Member List"
+msgstr ""
+
+#: user/shortcode.php:958 user/view/layout/member-view-profile-top.php:146
+msgid "Send Mail"
+msgstr ""
+
+#: user/shortcode.php:1035 admin/view/view-user-list.php:147
+#: admin/view/view-user-list.php:531 user/view/search-form.php:79
+#: user/view/search-form.php:108
+msgid "Search"
+msgstr ""
+
+#: user/shortcode.php:1186
+msgid " per page"
+msgstr ""
+
+#: user/shortcode.php:1194 admin/view/view-user-list.php:368
+#: admin/view/view-user-list.php:670
+msgid "20 per page"
+msgstr ""
+
+#: user/shortcode.php:1202 admin/view/view-user-list.php:376
+#: admin/view/view-user-list.php:678
+msgid "50 per page"
+msgstr ""
+
+#: user/shortcode.php:1213 admin/view/view-user-list.php:387
+msgid "ViewAll"
+msgstr ""
+
+#: user/widget-user-search.php:42
+msgid "Search "
+msgstr ""
+
+#: user/widget.php:94
+msgid "Login "
+msgstr ""
+
+#: user/widget.php:95
+msgid "My Account "
+msgstr "Minha conta"
+
+#: admin/view/notification.php:28
+msgid " User Waiting for Approval"
+msgstr ""
+
+#: admin/view/notification.php:60
+msgid " User Denied"
+msgstr ""
+
+#: admin/view/notification.php:92
+msgid " User Approved"
+msgstr ""
+
+#: admin/view/notification.php:105
+msgid " new members joined today"
+msgstr ""
+
+#: admin/view/notification.php:117
+msgid " Users Failed Login Attempt"
+msgstr ""
+
+#: admin/view/notification.php:133
+msgid " notifications"
+msgstr ""
+
+#: admin/view/option.php:8 admin/view/view-setting.php:23
+msgid "General"
+msgstr ""
+
+#: admin/view/option.php:19 admin/view/view-setting.php:438
+msgid "Disable Signup Form"
+msgstr ""
+
+#: admin/view/option.php:20
+msgid "Disable user to register new account from front end"
+msgstr ""
+
+#: admin/view/option.php:28
+msgid "Disable Login with OTP"
+msgstr ""
+
+#: admin/view/option.php:29
+msgid "Disable user to login with OTP from front end"
+msgstr ""
+
+#: admin/view/option.php:37
+msgid "Disable Login with OTP Link"
+msgstr ""
+
+#: admin/view/option.php:38
+msgid "Disable user to login with OTP link in mail"
+msgstr ""
+
+#: admin/view/option.php:46
+msgid "Disable create and join groups"
+msgstr ""
+
+#: admin/view/option.php:47
+msgid ""
+"If enable - Ability of each member to create and join groups from the front "
+"end profile page"
+msgstr ""
+
+#: admin/view/option.php:55
+msgid "Disable View on My Profile"
+msgstr ""
+
+#: admin/view/option.php:56
+msgid "If enable - Display People Viewed List"
+msgstr ""
+
+#: admin/view/option.php:64
+msgid "Disable Posts"
+msgstr ""
+
+#: admin/view/option.php:65
+msgid "If Disable - Hide post tab on user profile"
+msgstr ""
+
+#: admin/view/option.php:73
+msgid "Disable Blogs Link"
+msgstr ""
+
+#: admin/view/option.php:74
+msgid "If Disable - Hide Blogs link on My Profile"
+msgstr ""
+
+#: admin/view/option.php:82
+msgid "Disable Contact Form"
+msgstr ""
+
+#: admin/view/option.php:83
+msgid "Disable Contact Form from my profile section"
+msgstr ""
+
+#: admin/view/option.php:91
+msgid "Disable Send Mail"
+msgstr ""
+
+#: admin/view/option.php:92
+msgid "Disable Send Mail from view profile section"
+msgstr ""
+
+#: admin/view/option.php:100
+msgid "Disable Admin Bar"
+msgstr ""
+
+#: admin/view/option.php:101
+msgid " Disable WordPress Admin Bar for All Users Except Admin"
+msgstr ""
+
+#: admin/view/option.php:109
+msgid "Disable User Bar"
+msgstr ""
+
+#: admin/view/option.php:110
+msgid " Disable User Notification Bar on Front end My Account"
+msgstr ""
+
+#: admin/view/option.php:118
+msgid "Disable User Sidebar"
+msgstr ""
+
+#: admin/view/option.php:119
+msgid " Disable Right Side Bar on Front end My Account"
+msgstr ""
+
+#: admin/view/option.php:127
+msgid "Default New User Approval status"
+msgstr ""
+
+#: admin/view/option.php:128
+msgid "Set default user status when register new user"
+msgstr ""
+
+#: admin/view/option.php:132 admin/view/view-user-list.php:476
+msgid "Pending"
+msgstr ""
+
+#: admin/view/option.php:133
+msgid "Require E-mail Activation"
+msgstr ""
+
+#: admin/view/option.php:144 user/view/profile.php:217
+msgid "Notifications"
+msgstr ""
+
+#: admin/view/option.php:154
+msgid "Disable User notification"
+msgstr ""
+
+#: admin/view/option.php:155
+msgid " Disable user notification on Front end My Account"
+msgstr ""
+
+#: admin/view/option.php:163
+msgid "Disable comment notification"
+msgstr ""
+
+#: admin/view/option.php:164
+msgid " Disable user notification on new comment"
+msgstr ""
+
+#: admin/view/option.php:174
+msgid "REST API"
+msgstr ""
+
+#: admin/view/option.php:184
+msgid "Enable REST API"
+msgstr ""
+
+#: admin/view/option.php:185
+msgid ""
+"Extends the WP REST API using JSON Web Tokens Authentication as an "
+"authentication method."
+msgstr ""
+
+#: admin/view/option.php:193
+msgid "Enable API Key Auth Verification"
+msgstr ""
+
+#: admin/view/option.php:194
+msgid "REST API Only return response to Authorised API key."
+msgstr ""
+
+#: admin/view/option.php:202
+msgid "REST API Key"
+msgstr ""
+
+#: admin/view/option.php:203
+msgid ""
+"You need to pass api_key parameter in every request header if Enable API Key "
+"Auth Verification setting."
+msgstr ""
+
+#: admin/view/option.php:213 admin/view/option.php:232
+msgid "Terms and Conditions"
+msgstr ""
+
+#: admin/view/option.php:223
+msgid "Enable Terms and Conditions"
+msgstr ""
+
+#: admin/view/option.php:224
+msgid " Display and require user agreement to Terms and Conditions"
+msgstr ""
+
+#: admin/view/option.php:233
+msgid ""
+"Enter text or a URL starting with http. If you use a URL, the Terms and "
+"Conditions text will be replaced by a link to the appropiate page"
+msgstr ""
+
+#: admin/view/option.php:243
+msgid "Appearance and Look"
+msgstr ""
+
+#: admin/view/option.php:253
+msgid "Field Icons"
+msgstr ""
+
+#: admin/view/option.php:254
+msgid "Disable Field Icons"
+msgstr ""
+
+#: admin/view/option.php:262
+msgid "Display User menu tab vertically"
+msgstr ""
+
+#: admin/view/option.php:263
+msgid ""
+"Display User menu tab(My Account, Edit Profile etc.) vertically on user "
+"profile."
+msgstr ""
+
+#: admin/view/option.php:271
+msgid "Custom CSS Styles"
+msgstr ""
+
+#: admin/view/option.php:272
+msgid ""
+" If you want to override existing styles, or add some specific CSS rules, "
+"put them here. They will survive the updates."
+msgstr ""
+
+#: admin/view/option.php:280
+msgid "Layout"
+msgstr ""
+
+#: admin/view/option.php:281
+msgid " By default layout"
+msgstr ""
+
+#: admin/view/option.php:300
+msgid "Enable Subscription"
+msgstr ""
+
+#: admin/view/option.php:301
+msgid ""
+"Enable subscription when new user register i.e Mailchimp, Aweber, Campain "
+"Monitor"
+msgstr ""
+
+#: admin/view/option.php:313
+msgid "Disable Support Section"
+msgstr ""
+
+#: admin/view/option.php:314
+msgid "Disable Support from my profile section"
+msgstr ""
+
+#: admin/view/option.php:327
+msgid "Disable Wishlist Section"
+msgstr ""
+
+#: admin/view/option.php:328
+msgid "Disable Wishlist from my profile section"
+msgstr ""
+
+#: admin/view/option.php:340 admin/view/option.php:360
+msgid "Limit Login Attempts"
+msgstr ""
+
+#: admin/view/option.php:351
+msgid "Enable Limit Login Attempts Setting"
+msgstr ""
+
+#: admin/view/option.php:352
+msgid "Blocking access to the login page after n unsuccessful login attempts"
+msgstr ""
+
+#: admin/view/option.php:361
+msgid " attempts"
+msgstr ""
+
+#: admin/view/option.php:369
+msgid "Notify on lockouts (Email to admin after)"
+msgstr ""
+
+#: admin/view/option.php:370
+msgid " lockouts"
+msgstr ""
+
+#: admin/view/option.php:378
+msgid "Lockouts time"
+msgstr ""
+
+#: admin/view/option.php:379
+msgid " minutes"
+msgstr ""
+
+#: admin/view/option.php:387
+msgid "Enable 2-Step Verification"
+msgstr ""
+
+#: admin/view/option.php:388
+msgid ""
+"With 2-Step Verification you add an extra layer of security to user account. "
+"After you set it up, user sign in to there account in two steps using "
+"password and OTP."
+msgstr ""
+
+#: admin/view/option.php:398
+msgid "Password (Form Validation & Security)"
+msgstr ""
+
+#: admin/view/option.php:402
+msgid ""
+"Example (Default)\n"
+"            <br>$\\S*(?=\\S{8,})(?=\\S*[a-z])(?=\\S*[A-Z])(?=\\S*[\\d])(?"
+"=\\S*[\\W])\\S*$\n"
+"            <br>$ = beginning of string\n"
+"            <br>\\S* = any set of characters\n"
+"            <br>(?=\\S{8,}) = of at least length 8\n"
+"            <br>(?=\\S*[a-z]) = containing at least one lowercase letter\n"
+"            <br>(?=\\S*[A-Z]) = and at least one uppercase letter\n"
+"            <br>(?=\\S*[\\d]) = and at least one number\n"
+"            <br>(?=\\S*[\\W]) = and at least a special character (non-word "
+"characters)\n"
+"            <br>$ = end of the string"
+msgstr ""
+
+#: admin/view/option.php:417
+msgid "Enable Password Regular Expression"
+msgstr ""
+
+#: admin/view/option.php:426
+msgid "Password Validation Message"
+msgstr ""
+
+#: admin/view/option.php:427
+msgid "Password Validation Message for front end user."
+msgstr ""
+
+#: admin/view/option.php:435
+msgid "Password Regular Expression"
+msgstr ""
+
+#: admin/view/option.php:436
+msgid ""
+"The regex used to validate the Password fields specified above, please do "
+"not change this unless you know what you are doing."
+msgstr ""
+
+#: admin/view/option.php:446
+msgid "Blacklisting / Whitelisting IP addresses"
+msgstr ""
+
+#: admin/view/option.php:456
+msgid "Blacklisting IP Addresses"
+msgstr ""
+
+#: admin/view/option.php:473
+msgid "Whitelisting IP Addresses"
+msgstr ""
+
+#: admin/view/option.php:492
+msgid "reCAPTCHA"
+msgstr ""
+
+#: admin/view/option.php:496
+msgid ""
+"1.Sign up for an API key at <a href=\"https://www.google."
+"com/recaptcha/admin#createsite\" target=\"_blank\"> https://www.google."
+"com/recaptcha/admin#createsite</a>\n"
+"        <br>2.Check documentation for No CAPTCHA reCAPTCHA at  <a "
+"href=\"https://developers.google.com/recaptcha/intro\" target=\"_blank\"> "
+"https://developers.google.com/recaptcha/intro</a>"
+msgstr ""
+
+#: admin/view/option.php:503
+msgid "Enable reCAPTCHA"
+msgstr ""
+
+#: admin/view/option.php:512
+msgid "Secret Key"
+msgstr ""
+
+#: admin/view/option.php:525
+msgid "Send Mail Settings"
+msgstr ""
+
+#: admin/view/option.php:548
+msgid "The name that appears on mails sent by WP USER"
+msgstr ""
+
+#: admin/view/option.php:557
+msgid "The address that appears on mails sent by WP User"
+msgstr ""
+
+#: admin/view/option.php:568
+msgid "New Registration"
+msgstr ""
+
+#: admin/view/option.php:578
+msgid "Send an e-mail to admin when user is register"
+msgstr ""
+
+#: admin/view/option.php:596 admin/view/option.php:623
+#: admin/view/option.php:653
+msgid "Email Content"
+msgstr ""
+
+#: admin/view/option.php:605
+msgid "Send an e-mail to user when user is register"
+msgstr ""
+
+#: admin/view/option.php:634 user/view/forgot.php:4 user/view/login.php:7
+#: user/view/widgetView.php:37
+msgid "Forgot Password"
+msgstr ""
+
+#: admin/view/option.php:669
+msgid "Disable order notification"
+msgstr ""
+
+#: admin/view/option.php:670
+msgid ""
+" Disable user notification on woocommerce order status changed to "
+"refund/complete"
+msgstr ""
+
+#: admin/view/view-addon.php:5
+msgid "Social Login"
+msgstr ""
+
+#: admin/view/view-addon.php:6
+msgid "Social Login Addon for Wp User"
+msgstr ""
+
+#: admin/view/view-addon.php:11
+msgid ""
+"WP User Social Login allow your website readers and customers to login and "
+"register on using\n"
+"         their existing social accounts IDs"
+msgstr ""
+
+#: admin/view/view-addon.php:17
+msgid "Subscription"
+msgstr ""
+
+#: admin/view/view-addon.php:18
+msgid "Subscription Addon for WP User"
+msgstr ""
+
+#: admin/view/view-addon.php:23
+msgid ""
+"WP User Subscription is a simple but powerful WP User Addon which supports "
+"MailChimp, Aweber and Campaign Monitor.\n"
+"        On new user registration subscribe user"
+msgstr ""
+
+#: admin/view/view-addon.php:30
+msgid "Multiple Registration Forms "
+msgstr ""
+
+#: admin/view/view-addon.php:31
+msgid "Form Builder Addon for WP User"
+msgstr ""
+
+#: admin/view/view-addon.php:36
+msgid ""
+"Create multiple front-end registration forms (Show different fields each "
+"form).\n"
+"            Unlimited <b>custom fields</b>."
+msgstr ""
+
+#: admin/view/view-addon.php:42
+msgid "Addresses Book "
+msgstr ""
+
+#: admin/view/view-addon.php:43
+msgid "WP User Multiple Addresses"
+msgstr ""
+
+#: admin/view/view-addon.php:48
+msgid ""
+"Add Multiple Addresses and set shipping and billing address. Integration "
+"with WooCommerce"
+msgstr ""
+
+#: admin/view/view-addon.php:53
+msgid "User Profile Completeness"
+msgstr ""
+
+#: admin/view/view-addon.php:54
+msgid "WP User Profile Completeness"
+msgstr ""
+
+#: admin/view/view-addon.php:59
+msgid "Show the percentage of user profile completion."
+msgstr ""
+
+#: admin/view/view-addon.php:64
+msgid "Customize Layout"
+msgstr ""
+
+#: admin/view/view-addon.php:65
+msgid "WP User Layout"
+msgstr ""
+
+#: admin/view/view-addon.php:70
+msgid "Customize skin color,buttons, link, box, form background etc."
+msgstr ""
+
+#: admin/view/view-addon.php:75
+msgid "Social Network"
+msgstr ""
+
+#: admin/view/view-addon.php:76
+msgid "WP User Social Network"
+msgstr ""
+
+#: admin/view/view-addon.php:81
+msgid ""
+"Automatically or manually assign badges to users based on different criteria,"
+"  Follow / Unfollow Feature In addition, It adds followers list, and "
+"following list"
+msgstr ""
+
+#: admin/view/view-addon.php:86
+msgid "WooCommerce integration "
+msgstr ""
+
+#: admin/view/view-addon.php:87
+msgid "WooCommerce integration Addon For WP User"
+msgstr ""
+
+#: admin/view/view-addon.php:92
+msgid "Integrates Woo orders and purchases with user profiles"
+msgstr ""
+
+#. Name of the plugin
+#: admin/view/view-addon.php:104 admin/view/view-user-list.php:8
+msgid "WP User"
+msgstr ""
+
+#: admin/view/view-addon.php:108 admin/view/view-user-list.php:12
+msgid "Home"
+msgstr ""
+
+#: admin/view/view-addon.php:120
+msgid "Pro Add-ons"
+msgstr ""
+
+#: admin/view/view-addon.php:123
+msgid "Features"
+msgstr ""
+
+#: admin/view/view-addon.php:135
+msgid "Get all add-ons access and Premium Support with"
+msgstr ""
+
+#: admin/view/view-addon.php:137
+msgid "Personal/Business/Developer"
+msgstr ""
+
+#: admin/view/view-addon.php:138
+msgid "Pack (All Pro Features)"
+msgstr ""
+
+#: admin/view/view-addon.php:168
+msgid "Deactivate"
+msgstr ""
+
+#: admin/view/view-addon.php:173
+msgid "Activate"
+msgstr ""
+
+#: admin/view/view-addon.php:178 admin/view/view-addon.php:204
+#: admin/view/view-footer.php:15
+msgid "Buy Now"
+msgstr ""
+
+#: admin/view/view-addon.php:196 admin/view/view-footer.php:7
+#: admin/view/view-footer.php:7
+msgid "Documentation"
+msgstr ""
+
+#: admin/view/view-addon.php:200 admin/view/view-addon.php:221
+#: admin/view/view-addon.php:231 admin/view/view-addon.php:506
+#: admin/view/view-addon.php:519 admin/view/view-footer.php:11
+#: admin/view/view-footer.php:11
+msgid "Support"
+msgstr ""
+
+#: admin/view/view-addon.php:221 admin/view/view-addon.php:506
+msgid "Paid Customization"
+msgstr ""
+
+#: admin/view/view-footer.php:15
+msgid "Pro Version"
+msgstr ""
+
+#: admin/view/view-footer.php:24
+msgid "If you like WP User please leave us"
+msgstr ""
+
+#: admin/view/view-footer.php:28
+msgid "A huge thank you from WP User in advance!"
+msgstr ""
+
+#: admin/view/view-setting.php:25
+msgid "Page Setup"
+msgstr ""
+
+#: admin/view/view-setting.php:27
+msgid "Tab setting"
+msgstr ""
+
+#: admin/view/view-setting.php:29
+msgid "Security"
+msgstr ""
+
+#: admin/view/view-setting.php:31
+msgid "Email Notifications"
+msgstr ""
+
+#: admin/view/view-setting.php:40 admin/view/view-setting.php:205
+msgid "Help"
+msgstr ""
+
+#: admin/view/view-setting.php:42
+msgid "Subscribe"
+msgstr ""
+
+#: admin/view/view-setting.php:94
+msgid "Page"
+msgstr ""
+
+#: admin/view/view-setting.php:109
+msgid "WP User Page"
+msgstr ""
+
+#: admin/view/view-setting.php:123 admin/view/view-setting.php:141
+msgid "View Page"
+msgstr ""
+
+#: admin/view/view-setting.php:135
+msgid "WP User Members Page"
+msgstr ""
+
+#: admin/view/view-setting.php:158
+msgid "Page Title"
+msgstr ""
+
+#: admin/view/view-setting.php:168
+msgid "Member Page Title"
+msgstr ""
+
+#: admin/view/view-setting.php:177
+msgid "Rebuild Pages"
+msgstr ""
+
+#: admin/view/view-setting.php:179
+msgid ""
+"OR Use [wp_user] shortcode for display login, registration, forgot password "
+"form."
+msgstr ""
+
+#: admin/view/view-setting.php:181
+msgid "Use [wp_user_member] shortcode for display members/users list."
+msgstr ""
+
+#: admin/view/view-setting.php:193
+msgid "Profile Page Tab Setting"
+msgstr ""
+
+#: admin/view/view-setting.php:206
+msgid ""
+"Using this setting you can add new tab in user menu (below My Account, Edit "
+"Profile) which give users the freedom to have more choice within their own "
+"profile\n"
+"                                             <br>These option would enable "
+"you to add Shortcodes from other plugins like feeds, comments, favourites, "
+"among others \n"
+"                                             <br>You can add Text, HTML, "
+"Shortcode, href in tab content section. \n"
+"                                             <br>You can display tab for "
+"only to selected user role. \n"
+"                                             <br>For change tab order drag "
+"tab section up/down."
+msgstr ""
+
+#: admin/view/view-setting.php:217
+msgid "Custom Tabs"
+msgstr ""
+
+#: admin/view/view-setting.php:355
+msgid "Shortcode"
+msgstr ""
+
+#: admin/view/view-setting.php:363
+msgid ""
+"']  <br>\n"
+"                                    \n"
+"                                    <b>layout</b> : Set diffrent layout to "
+"diffrent form\n"
+"                                     Ex. [wp_user layout='default'] <br>\n"
+"                                     \n"
+"                                     <b>skin</b> : Set diffrent skin color "
+"to diffrent form\n"
+"                                     Ex. [wp_user skin='blue']\n"
+"                                    \n"
+"                                         <hr><br>                            "
+"\n"
+"                                    <b> [wp_user_member] </b> shortcode for "
+"display member list/directory<br>\n"
+"                                     You can use following attributes for "
+"filter/show member list <br>\n"
+"                                     <b>[wp_user_member role_in='subscriber' "
+"role_not_in='author' include='1,2,5,7' exclude='55,44,78,87' approve='1' "
+"size='small']</b><br>\n"
+"                                      <b>role_in </b> : If you want to show "
+"only selected member role in list then set this attribute by comma "
+"seprated<br>\n"
+"                                      Ex. [wp_user_member "
+"role_in='subscriber,author']<br>\n"
+"                                       \n"
+"                                       <b>role_not_in </b> : If you want "
+"exclude to show some user roles in member list then set this attribute by "
+"comma seprated<br>\n"
+"                                      Ex. [wp_user_member "
+"role_not_in='subscriber,author']<br>\n"
+"                                      \n"
+"                                      <b>include </b> : If you want only "
+"show selected user ids then set this attribute by comma seprated<br>\n"
+"                                      Ex. [wp_user_member include='1,2,5,7' ]"
+"<br>\n"
+"                                      \n"
+"                                       <b>exclude </b> : If you don't want "
+"show selected user ids then set this attribute by comma seprated<br>\n"
+"                                      Ex. [wp_user_member exclude='55,44,78,"
+"87' ]<br>\n"
+"                                      \n"
+"                                      <b>approve </b> : If you want show "
+"only approve user then set approve='1'<br>\n"
+"                                      Ex. [wp_user_member approve='1' ]<br>\n"
+"                                      \n"
+"                                      <b>size </b> : If you want change "
+"default display member list template to small one then set size='small'<br>\n"
+"                                      Ex. [wp_user_member size='small' ]<br>"
+"\n"
+"                                      <hr>\n"
+"                                      <b> [wp_user_restrict] your restricted "
+"content goes here [/wp_user_restrict]</b> \n"
+"                                       shortcode for Restrict Content to "
+"registered users only. logged in users only access content<br>               "
+"                       \n"
+"                                       To restrict just a section of content "
+"within a post or page, you may use above shortcodes<br>\n"
+"                                       You can also set user role for access "
+"content.<br>\n"
+"                                       You can use role attribute for only "
+"access content to selected user role:<br>\n"
+"                                       Ex. [wp_user_restrict role='author,"
+"editor'] your restricted content goes here [/wp_user_restrict]<br>\n"
+"                                       Ex. [wp_user_restrict role='author'] "
+"your restricted content goes here [/wp_user_restrict]<br>\n"
+"                                       Ex. [wp_user_restrict "
+"role='logged_in'] your restricted content goes here [/wp_user_restrict] : "
+"logged in users only access content<br>\n"
+"                                       To restrict an entire post or page, "
+"simply select the user role you’d like to restrict the post or page to from "
+"the drop down menu added just below the post/page editor.\n"
+"\n"
+"                                     \n"
+"\n"
+"                                  \n"
+"                                     \n"
+"                                    .<br>"
+msgstr ""
+
+#: admin/view/view-setting.php:446
+msgid ""
+"Go to Dashboard->WP User ->General <br>\n"
+"                                            1) Click on 'Disable Signup "
+"Form' check box.<br> \n"
+"                                            2) Click on 'Update' for Save "
+"setting"
+msgstr ""
+
+#: admin/view/view-user-list.php:31
+msgid "Login Log"
+msgstr ""
+
+#: admin/view/view-user-list.php:129 admin/view/view-user-list.php:512
+msgid "Only Include these fields in export"
+msgstr ""
+
+#: admin/view/view-user-list.php:134
+msgid ""
+"A comma seperated list of fields to include only in the export. e.g.  ID,"
+"user_login,user_nicename,display_name,user_email"
+msgstr ""
+
+#: admin/view/view-user-list.php:175
+msgid "Filter by Type"
+msgstr ""
+
+#: admin/view/view-user-list.php:185
+msgid "All"
+msgstr ""
+
+#: admin/view/view-user-list.php:206
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/view/view-user-list.php:212
+msgid "Export CSV"
+msgstr ""
+
+#: admin/view/view-user-list.php:219
+msgid "Apply"
+msgstr ""
+
+#: admin/view/view-user-list.php:241 admin/view/view-user-list.php:563
+msgid "Sort by"
+msgstr ""
+
+#: admin/view/view-user-list.php:253
+msgid "Username A-Z"
+msgstr ""
+
+#: admin/view/view-user-list.php:261
+msgid "Username Z-A"
+msgstr ""
+
+#: admin/view/view-user-list.php:272
+msgid "Name A-Z"
+msgstr ""
+
+#: admin/view/view-user-list.php:280
+msgid "Name Z-A"
+msgstr ""
+
+#: admin/view/view-user-list.php:291
+msgid "Role Asc"
+msgstr ""
+
+#: admin/view/view-user-list.php:299
+msgid "Role Desc"
+msgstr ""
+
+#: admin/view/view-user-list.php:310
+msgid "Status Asc"
+msgstr ""
+
+#: admin/view/view-user-list.php:319
+msgid "Status Desc"
+msgstr ""
+
+#: admin/view/view-user-list.php:348 admin/view/view-user-list.php:650
+msgid "Items per Page"
+msgstr ""
+
+#: admin/view/view-user-list.php:360 admin/view/view-user-list.php:662
+msgid "10 per page"
+msgstr ""
+
+#: admin/view/view-user-list.php:425
+msgid "Name"
+msgstr ""
+
+#: admin/view/view-user-list.php:434
+msgid "Status"
+msgstr ""
+
+#: admin/view/view-user-list.php:496
+msgid ""
+"Track records of user login with set of multiple information like ip,time,"
+"user name,browser information etc"
+msgstr ""
+
+#: admin/view/view-user-list.php:575
+msgid "Time Asc"
+msgstr ""
+
+#: admin/view/view-user-list.php:584
+msgid "Time Desc"
+msgstr ""
+
+#: admin/view/view-user-list.php:596
+msgid "User ID A-Z"
+msgstr ""
+
+#: admin/view/view-user-list.php:604
+msgid "User ID Z-A"
+msgstr ""
+
+#: admin/view/view-user-list.php:615
+msgid "User A-Z"
+msgstr ""
+
+#: admin/view/view-user-list.php:622
+msgid "User Z-A"
+msgstr ""
+
+#: admin/view/view-user-list.php:689 user/view/layout/partial/posts.php:2
+msgid "View All"
+msgstr ""
+
+#: admin/view/view-user-list.php:724
+msgid "ID"
+msgstr ""
+
+#: admin/view/view-user-list.php:727
+msgid "User"
+msgstr ""
+
+#: admin/view/view-user-list.php:736
+msgid "IP"
+msgstr ""
+
+#: admin/view/view-user-list.php:739
+msgid "Time"
+msgstr ""
+
+#: admin/view/view-user-list.php:776
+msgid "No Login Logs Found"
+msgstr ""
+
+#: user/view/forgot.php:25 user/view/widgetView.php:64
+msgid "Forgot"
+msgstr ""
+
+#: user/view/option.php:6 user/view/widgetView.php:12
+msgid "Username or Email"
+msgstr "Usuário ou E-mail"
+
+#: user/view/option.php:11
+msgid "Enter Username or Email or Mobile Number"
+msgstr ""
+
+#: user/view/option.php:16 user/view/option.php:49 user/view/option.php:143
+#: user/view/widgetView.php:20 user/view/widgetView.php:103
+msgid "Password"
+msgstr "Senha"
+
+#: user/view/option.php:21 user/view/option.php:54 user/view/option.php:148
+msgid "Enter Password"
+msgstr "Digite a senha"
+
+#: user/view/option.php:34
+msgid "Enter Username"
+msgstr "Digite o usuário"
+
+#: user/view/option.php:44 user/view/option.php:77 user/view/option.php:126
+msgid "Enter Email"
+msgstr "Digite o e-mail"
+
+#: user/view/option.php:88
+msgid "User Avatar"
+msgstr ""
+
+#: user/view/option.php:93
+msgid "Upload an image or enter url for your user profile."
+msgstr ""
+
+#: user/view/option.php:104
+msgid "Enter First Name"
+msgstr ""
+
+#: user/view/option.php:115
+msgid "Enter Last Name"
+msgstr ""
+
+#: user/view/option.php:137
+msgid "Enter URL"
+msgstr ""
+
+#: user/view/profile.php:219
+msgid "Clear All"
+msgstr ""
+
+#: user/view/register.php:117 user/view/widgetView.php:125
+msgid "I agree to the"
+msgstr ""
+
+#: user/view/register.php:117 user/view/widgetView.php:125
+msgid "terms"
+msgstr ""
+
+#: user/view/widgetView.php:111
+msgid "Retype Password"
+msgstr ""
+
+#: user/view/layout/partial/top/posts.php:44
+msgid "No Posts Found"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create elegant Login, Register, and Forgot Password form on Page, widget or "
+"Popups on your website, in just minutes with AJAX."
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.wpseeds.com/product/wp-user-custom-registration-forms-login-and-"
+"user-profile/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Prashant Walke"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wpseeds.com"
+msgstr ""
